@@ -9,6 +9,6 @@
   "author": "Rafael \"Bee\" Pereira",
   "license": "ISC",
   "dependencies": {
-    "csv-parse": "^4.3.3"
+    "csv-parse": "^4.4.6"
   }
 }
